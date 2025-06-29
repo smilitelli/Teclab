@@ -1,0 +1,23 @@
+{
+    "OrderID": 0001,
+    "Address": "San Martín 500",
+    "Status": "Ready",
+    "Articles": [
+        {"Name": "Mouse",
+         "Quantity": 1,
+         "Dangerous": false   
+        },
+        {"Name": "Keyboard",
+        "Quantity": 2,
+        "Dangerous":false
+        },
+        {"Name": "Speaker",
+         "Quantity": 2,
+         "Dangerous": false
+        },
+        {"Name": "Acid",
+         "Quantity": 2,
+         "Dangerous":true
+        } 
+    ]
+}
